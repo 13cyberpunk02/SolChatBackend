@@ -1,2 +1,2 @@
 # SolChatBackend
-Simple Chat application. User React and Microsoft SignalR
+Simple Chat application. Used React and Microsoft SignalR
